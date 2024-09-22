@@ -25,11 +25,6 @@ The dataset consists of 31,048 records with the following headers:
 The **Excel dashboard** provides a clear and interactive summary of key metrics:
 - **Annual Sales Overview**: Aggregated data on sales, revenue, and units sold by category and region.
 - **Sales by Month**: Visualization of monthly sales trends to highlight seasonal fluctuations.
-- **B2B vs B2C**: Comparison of performance between business-to-business (B2B) and business-to-consumer (B2C) channels.
-
-Here is a screenshot of the dashboard:
-
-![Dashboard Screenshot](link-to-dashboard-screenshot)
 
 ## Files in Repository
 - **VrindaStore_Data.xlsx**: The Excel file containing 31,048 records, pivot tables, charts, and the annual sales dashboard.
